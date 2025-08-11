@@ -26,7 +26,7 @@ Welcome to **TestRepo** — a collaborative project built with **Godot 4.x + Mon
 
 ---
 
-## 🧠 Contribution Rules
+## 🧠 Contribution Rules1
 
 > ⚠️ **Don’t edit the `main` branch directly!**
 
