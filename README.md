@@ -28,7 +28,7 @@ Welcome to **TestRepo** — a collaborative project built with **Godot 4.x + Mon
 
 ## 🧠 Contribution Rules
 
-> ⚠️ **Don’t edit the `main` branch directly!**
+> ⚠️ **Don’t edit the `main` branch directly!**3
 
 - Always create a new branch for your changes:
   ```bash
