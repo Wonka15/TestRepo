@@ -33,7 +33,7 @@ Whether you’re creating art or programming, this guide helps you get started a
 
 ---
 
-## 🌈 Collaborator Branches
+##  Collaborator Branches
 
 To keep our work organized, everyone has their own branch:
 
@@ -85,6 +85,14 @@ To keep our work organized, everyone has their own branch:
 
 - Click the **Issues** tab above to ask for help.
 - Or drop a message in our group chat.
+
+- ## 🎨 Art Folder Structure
+
+- Jason: place your art in `assets/art/jason/`
+- Kris: place your art in `assets/art/kris/`
+- Noah: place your art in `assets/art/noah/`
+
+This keeps everyone organized and makes it easy to find each person’s work!
 
 ---
 
