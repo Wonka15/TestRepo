@@ -1,6 +1,6 @@
 # 🎮 Godot Collab Project – TestRepo
 
-Welcome, Jason, Kris, and Noah!  
+Welcome, William!  
 This is our group game project, made with **Godot 4.x + Mono (C#)**.  
 Whether you’re creating art or programming, this guide helps you get started and work together smoothly.
 
@@ -39,32 +39,17 @@ To keep our work organized, everyone has their own branch:
 
 | Role                | Branch Name    | What to do here?                           |
 |---------------------|---------------|---------------------------------------------|
-| 🟪 Jason (Artist)   | `Jason-DEV`   | Add or update art, images, and sounds       |
-| 🟪 Kris (Artist)    | `Kris-DEV`    | Add or update art, images, and sounds       |
-| 🟦 Noah (Code & Art)| `Noah-DEV`    | Add code, features, AND art assets          |
+| 🟦 William (Code & Art)| `William-DEV` | Add code, features, AND art assets          |
 
 **Always make changes in your own branch!**
 
 ---
 
-## 🟪 For Jason & Kris (Artists)
+## 🟦 For William (Code & Art)
 
-- Switch to your branch before making changes:
+- Switch to `William-DEV` before making changes:
   ```bash
-  git checkout Jason-DEV   # For Jason
-  git checkout Kris-DEV    # For Kris
-  ```
-- Add new art (images, sprites, sounds) in the `assets/` folder.
-- If unsure about file types, just ask Noah!
-- When ready, let Noah know so he can help merge your branch into `main`.
-
----
-
-## 🟦 For Noah (Code & Art)
-
-- Switch to `Noah-DEV` before making changes:
-  ```bash
-  git checkout Noah-DEV
+  git checkout William-DEV
   ```
 - Add or update code for new features, gameplay, or bug fixes.
 - Add art assets as needed.
@@ -75,7 +60,7 @@ To keep our work organized, everyone has their own branch:
 ## 🤝 How We Work Together
 
 - **Each person uses their individual branch** for changes.
-- When you’re done, let Noah know so he can help review and combine your work.
+- When you’re done, let William know so he can help review and combine your work.
 - Use the **Issues** tab above to ask questions, suggest ideas, or report problems.
 - Communicate openly! No question is too small.
 
@@ -88,13 +73,11 @@ To keep our work organized, everyone has their own branch:
 
 - ## 🎨 Art Folder Structure
 
-- Jason: place your art in `assets/art/jason/`
-- Kris: place your art in `assets/art/kris/`
-- Noah: place your art in `assets/art/noah/`
+- William: place your art in `assets/art/william/`
 
 This keeps everyone organized and makes it easy to find each person’s work!
 
 ---
 
-Thanks for collaborating, Jason, Kris, and Noah!  
+Thanks for collaborating, William!  
 Let’s build something awesome together 🚀
